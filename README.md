@@ -5,4 +5,4 @@ To solve problems and keep coding!
 
 | Date     | Problem                               | Code                             |
 | :------- | :---------------------------------- | :---------------------------------------------- |
-| 2025/07/21 | Two Sum |  |
+| 2025/07/21 | Two Sum | [twosum](https://github.com/catherineabcde/Leetcode_practice/blob/main/problems/twosum.py) |
