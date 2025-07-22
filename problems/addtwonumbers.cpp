@@ -19,7 +19,7 @@ public:
 
         while (l1 || l2 || carry) {
             int val1 = l1 ? l1->val: 0; // if l1 is true, get the val of the node that l1 point to
-            int val2 = l2 ? l1->val: 0;
+            int val2 = l2 ? l2->val: 0;
             int sum = val1 + val2 + carry;
 
             carry = sum / 10;
