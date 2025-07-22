@@ -7,7 +7,7 @@ class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
 
         total = ListNode()
-        current = total
+        current = total # serve as pointer
         carry = 0
 
         while l1 or l2 or carry:
