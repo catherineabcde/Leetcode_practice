@@ -3,6 +3,12 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# C++ build artifacts
+*.o
+*.out
+*.exe
+
+
 # C extensions
 *.so
 
